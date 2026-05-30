@@ -1,16 +1,24 @@
 ## Hi there 👋
+I'm Rajnish.
 
-<!--
-**rajnishjat964-sys/rajnishjat964-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student from India.
 
-Here are some ideas to get you started:
+## Learning 
+Linux 
+Networking
+Nmap
+Python
+Ethical Hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Platform
+Try Hack Me
+
+## Goals for 2026
+Complete more THM rooms
+
+Build Cybersecurity Projects
+
+## Contact 
+LINKEDIN : https://www.linkedin.com/in/rajnish-jat-2a6193380?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+
